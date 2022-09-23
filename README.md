@@ -1,6 +1,5 @@
 # Landing Page - OneBitX
-
-                [Preview]()
+ [Preview](https://landing-onebit-x-ai9n.vercel.app/)
 
 ## Índice
 
@@ -12,9 +11,9 @@
 
 Criação de uma página responsiva usando Bootstrap.
 
-    Os usuários devem ser capazes de:
+ Os usuários devem ser capazes de:
 
-    - Ver o layout adaptado de acordo com o tamanho da tela de seu dispositivo.
+  - Ver o layout adaptado de acordo com o tamanho da tela de seu dispositivo.
 
 ### Screenshots
 
